@@ -1,0 +1,15 @@
+fastapi==0.128.4
+uvicorn[standard]==0.40.0
+python-multipart==0.0.22
+email_validator==2.3.0
+pyjwt==2.11.0
+passlib==1.7.4
+sqlalchemy[asyncio]==2.0.46
+asyncpg==0.31.0
+aiosqlite==0.22.1
+redis[hiredis]==7.3.0
+celery==5.6.3
+pytest==9.0.2
+pytest-asyncio==1.3.0
+httpx==0.28.1
+alembic==1.18.4
